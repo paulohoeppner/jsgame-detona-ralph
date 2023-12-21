@@ -1,36 +1,82 @@
-## Awesome JSGame Detona Ralph
+<div align="center">
+    <h1>Potência Tech iFood - Desenvolvimento de Jogos</h1>
+</div>
+<br><br>
 
-<p align="center">
-  <img src="https://github.com/digitalinnovationone/jsgame-detona-ralph/raw/main/assets/images/logo.png" alt="JSGame Detona Ralph Logo">
-</p>
+<div align="center">
+    <img src="assets\images\dio-logo.png" width="200" height="100" hspace="25">
+    <img src="assets\images\PotenciaTech-logo.png" width="200" height="100" hspace="25">
+    <img src="assets\images\ifood-logo.png" width="200" height="100" hspace="25">
+</div>
+<br><br>
 
-Bem-vindo ao **JSGame Detona Ralph**! Neste repositório, você encontrará um jogo divertido baseado no famoso filme "Detona Ralph". Este projeto não apenas oferece entretenimento, mas também demonstra várias técnicas avançadas de desenvolvimento de jogos em JavaScript.
+<div align="center"><img src="assets\images\bootcamp-logo.png" width="" height="300" hspace="">
+</div>
+<br><br>
 
-### Tecnologias Utilizadas
+<div align="center"><img src="assets\images\bootcamp-dio.png" width="300" height="" hspace="10">
+</div>     
+<br><br>
 
-- HTML5 e CSS3 para a estrutura e aparência do jogo.
-- JavaScript para a lógica de programação e interatividade.
-- Sprites e imagens customizadas para criar a estética única do universo de Detona Ralph.
+<div align="center">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" hspace="10">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" hspace="10">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" hspace="10">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" hspace="10">     
+</div>
+<br><br>
 
-### Funcionalidades Incríveis
+<div align="center">
+    <img src="https://img.shields.io/badge/IN%C3%8DCIO-29%2F10%2F2023-green" hspace="5"/>
+    <img src="https://img.shields.io/badge/T%C3%89RMINO-22%2F01%2F2024-red" hspace="5"/>
+</div>
+<br>
+<hr>
 
-- **Sistema de Pontuação**: Acompanhe sua pontuação à medida que progride no jogo e desafie seus amigos a superá-la, clique no quadrado que o Ralph se encontre
+## Introdução
+Olá,
 
-### Como Jogar
+Esse repositório corresponde ao projeto "Criando um Jogo do Detona Ralph com JavaScript" da [DIO](https://www.dio.me/) (Digital Innovation One).
 
-1. Clone este repositório para sua máquina local.
-2. Abra o arquivo `index.html` em seu navegador web.
-3. Use as setas direcionais para mover o personagem e a barra de espaço para interagir.
-4. Divirta-se explorando e coletando moedas, mas fique atento aos inimigos!
+<hr>
 
-### Contribuição
+## Objetivo
 
-Contribuições são bem-vindas! Se você deseja melhorar este jogo, adicionar novos recursos ou corrigir problemas, sinta-se à vontade para abrir um _pull request_.
+Foi utilizado HTML, CSS e Javascript para criar um jogo baseado no filme Detona Ralph, aonde o objetivo é acertar o Ralph na janela que ele aparecer, ao longo do projeto foi explorado eventos Javascript e manipular áudios no browser.
 
-### Créditos
+Explorado todos os conceitos que aprendemos nessa imersão e replicado este projeto prático. 
+<br><br>
+<hr>
 
-Este jogo foi desenvolvido como parte de um projeto educacional da Digital Innovation One.
+## Próximos passos
 
----
+Realizar futuras implementações para evolução do projeto inicial (projeto base), tais como, implementações adicionais.
+<hr>
 
-Divirta-se jogando o **JSGame Detona Ralph** enquanto explora as técnicas modernas de desenvolvimento de jogos em JavaScript. Lembre-se de conferir o repositório original [aqui](https://github.com/digitalinnovationone/jsgame-detona-ralph) e deixar uma ⭐️ se você gostou do projeto!
+## Tecnologias Utilizadas
+
+- HTML <img align=center src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="75" height="20" hspace="5" style="margin-left: 10px"/>
+- CSS <img align=center src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="105" height="20" hspace="5" style="margin-left: 10px"/>
+- JavaScript <img align=center src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="20" height="20" hspace="5" style="margin-left: 10px"/>
+
+
+## Cursos Envolvidos
+### **Potência Tech iFood - Desenvolvimento de Jogos** 
+#### **Construindo o seu Portfólio de Jogos com JavaScript:**
+
+- Criando um Jogo do Detona Ralph com JavaScript.
+<hr>
+
+## Repositório Original do GitHub
+
+Referência direta ao código-fonte original.
+
+- Felipe Aguiar: [Felipe Aguiar](https://github.com/felipeAguiarCode)
+
+- Endereço: [jsgame-detona-ralph](https://github.com/digitalinnovationone/jsgame-detona-ralph)
+<hr>
+
+## Agradecimentos
+Gostaria de agradecer a [DIO](https://www.dio.me/) (Digital Innovation One) e ao instrutor [Felipe Aguiar](https://github.com/felipeAguiarCode) por compartilhar seu conhecimento.
+
+
